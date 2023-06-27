@@ -4,7 +4,7 @@
 
 ## 👨🏻‍💻 `newbie Front-End Developer`
 
-I'm a newbie Front-end developer passionate about web development. It all started as a game, but now I love this profession.
+I'm a Front-end developer passionate about web development. It all started as a game, but now I love this profession.
 
 <hr/>
 
