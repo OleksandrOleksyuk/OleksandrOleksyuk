@@ -2,7 +2,7 @@
 
 # Hey there! I'm Oleksandr.🇺🇦
 
-## 👨🏻‍💻 `newbie Front-End Developer`
+## 👨🏻‍💻 `junior Front-End Developer`
 
 I'm a Front-end developer passionate about web development. It all started as a game, but now I love this profession.
 
