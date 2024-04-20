@@ -1,23 +1,26 @@
+# Oleksandr - Front-End Developer
 
-          
+## Who I Am
 
-# Hey there! I'm Oleksandr.🇺🇦
+My name is Oleksandr and I'm a front-end developer. I started my journey into the world of development by taking a course on Udemy, and it was love at first sight. Now, I work as a front-end developer and dedicate my free time to enhancing my skills and creating personal projects.
 
-## 👨🏻‍💻 `junior Front-End Developer`
+## My Journey
 
-I'm a Front-end developer passionate about web development. It all started as a game, but now I love this profession.
+My journey into development began in August 2022 when I purchased a course on Udemy to explore this field. Since then, I have consistently worked to improve my skills and deepen my knowledge of front-end technologies.
 
-<hr/>
+## My Passions
 
-### 🛠 Languages and Tools
+I am particularly passionate about technologies like React and TypeScript. I love working with JSX and continually seek ways to enhance my skills in this area. In my free time, I enjoy writing code, continuing to learn, and developing projects that interest me.
 
-<img align="left" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img align="left" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img align="left" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="left" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  />          
+## Preferred Technologies
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img height="12" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
+  <img height="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img height="12" />      
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img height="12" />  
+</div>
